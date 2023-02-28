@@ -1,4 +1,4 @@
-<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/br-gersons/8f5f9c660f389caa206d0c1524ae9d02/raw/f29a970e502709a53a2e477fc5d81f8c46ab65cc/readmeGersonCard.svg"/>
+<img align="right" src="https://raw.githubusercontent.com/gist/br-gersons/8f5f9c660f389caa206d0c1524ae9d02/raw/7d6c0fa408384af88bce6f7208db93bd55d94c69/readmeGersonCard.svg"/>
 <h1 align="left">Hi there 👋, I'm Gerson Silva</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=br-gersons&color=yellow" alt="Profile views" /> </p>
 
@@ -33,8 +33,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=br-gersons&show_icons=true&theme=vision-friendly-dark" alt="gerson's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br-gersons&layout=compact&theme=vision-friendly-dark" alt="gerson's most languages"/>
+<img width="570em" src="https://github-readme-stats.vercel.app/api?username=br-gersons&show_icons=true&theme=vision-friendly-dark" alt="gerson's stats"/>
+<img width="435em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br-gersons&layout=compact&theme=vision-friendly-dark" alt="gerson's most languages"/>
 </p>
 
 <br><br>
