@@ -32,12 +32,12 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="570em" src="https://github-readme-stats.vercel.app/api?username=br-gersons&show_icons=true&theme=vision-friendly-dark" alt="gerson's stats"/>
-<img width="435em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br-gersons&layout=compact&theme=vision-friendly-dark" alt="gerson's most languages"/>
+<p align="center">
+<img width="56%" src="https://github-readme-stats.vercel.app/api?username=br-gersons&show_icons=true&theme=vision-friendly-dark" alt="gerson's stats"/>
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br-gersons&layout=compact&theme=vision-friendly-dark" alt="gerson's most languages"/>
 </p>
 
-<br><br>
+<br>
 
 ## Contact
 
