@@ -5,7 +5,7 @@
 
 - 🔭 I am currently studying and looking for a first opportunity as a developer.
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Bootstrap and Node.JS<!-- and JS Frameworks -->**
+- 💬 Ask me about **JavaScript, HTML, CSS, Bootstrap, Node.JS and ReactJS!
 
 <!--- ⚡ Fun fact ** **-->
 
@@ -14,19 +14,47 @@
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
+### Front-End
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+</a>
+<a href="https://pt-br.reactjs.org" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="ReactJS" />
+</a>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-<!--![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;-->
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-<!--![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;-->
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<!--![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;-->
-<!--![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;-->
+<br>
 
+### Back-End
+
+<a href="https://www.php.net/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+</a>
+
+<br>
+
+### Other's
+
+<a href="https://git-scm.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/-Git-f14e32?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
+</a>
+<a href="https://github.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/-GitHub-6e5494?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
+</a>
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/-VSCode-0088cc?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="VSCode" />
+</a>
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
