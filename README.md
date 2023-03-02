@@ -1,6 +1,6 @@
-<img align="right" src="https://raw.githubusercontent.com/gist/br-gersons/8f5f9c660f389caa206d0c1524ae9d02/raw/7d6c0fa408384af88bce6f7208db93bd55d94c69/readmeGersonCard.svg"/>
+<img align="right" src="https://raw.githubusercontent.com/gist/G3rsonBR/8f5f9c660f389caa206d0c1524ae9d02/raw/bc2e7ebe90132634c6d56121de187e765b222dd4/readmeGersonCard.svg"/>
 <h1 align="left">Hi there 👋, I'm Gerson Silva</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=br-gersons&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=G3rsonBR&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Computer Technician for Internet and Web Developer. 
 
@@ -10,7 +10,7 @@
 
 <!--- ⚡ Fun fact ** **-->
 
-- 👨‍💻 You can see my projects in [Repositories](https://github.com/br-gersons?tab=repositories)!
+- 👨‍💻 You can see my projects in [Repositories](https://github.com/G3rsonBR?tab=repositories)!
 
 <br><br>
 
@@ -33,8 +33,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<img width="56%" src="https://github-readme-stats.vercel.app/api?username=br-gersons&show_icons=true&theme=vision-friendly-dark" alt="gerson's stats"/>
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br-gersons&layout=compact&theme=vision-friendly-dark" alt="gerson's most languages"/>
+<img width="56%" src="https://github-readme-stats.vercel.app/api?username=G3rsonBR&show_icons=true&theme=vision-friendly-dark" alt="gerson's stats"/>
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3rsonBR&layout=compact&theme=vision-friendly-dark" alt="gerson's most languages"/>
 </p>
 
 <br>
