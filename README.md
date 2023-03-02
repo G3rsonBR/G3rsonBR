@@ -1,6 +1,5 @@
 <img align="right" src="https://raw.githubusercontent.com/gist/G3rsonBR/8f5f9c660f389caa206d0c1524ae9d02/raw/bc2e7ebe90132634c6d56121de187e765b222dd4/readmeGersonCard.svg"/>
 <h1 align="left">Hi there 👋, I'm Gerson Silva</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=G3rsonBR&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Computer Technician for Internet and Web Developer. 
 
@@ -42,10 +41,10 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/br-gerson/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-gersonsilva-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/br.gerson" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-gersonsilva-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+  <a href="https://www.linkedin.com/in/br-gerson/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://instagram.com/br.gerson" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </p>
