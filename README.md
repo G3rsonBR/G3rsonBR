@@ -5,13 +5,13 @@
 
 - 🔭 I am currently studying and looking for a first opportunity as a developer.
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Bootstrap, Node.JS and ReactJS!
+- 💬 Ask me about the technologies in **Tech Stack** section!
 
 <!--- ⚡ Fun fact ** **-->
 
 - 👨‍💻 You can see my projects in [Repositories](https://github.com/G3rsonBR?tab=repositories)!
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 ### Front-End
