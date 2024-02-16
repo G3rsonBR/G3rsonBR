@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/gist/G3rsonBR/8f5f9c660f389caa206d0c1524ae9d02/raw/bc2e7ebe90132634c6d56121de187e765b222dd4/readmeGersonCard.svg"/>
+
 <h1 align="left">Hi there 👋, I'm Gerson Silva</h1>
 
 - 🔥 Computer Technician for Internet and Web Developer. 
